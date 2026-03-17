@@ -60,5 +60,3 @@ This dashboard helps businesses to:
 ## Author
 Riya Kumari
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
-Riya Kumari
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
