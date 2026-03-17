@@ -37,6 +37,11 @@ Users can dynamically filter the dashboard using:
 
 These slicers allow deeper analysis and help in identifying trends and patterns quickly.
 
+📸## Dashboard Preview:
+
+<img width="1138" height="578" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/6059c877-c9b9-429c-8452-ff735d029890" />
+
+
 ## Tools & Techniques Used
 
 * Microsoft Excel
